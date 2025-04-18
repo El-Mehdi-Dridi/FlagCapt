@@ -32,7 +32,7 @@
 Clone the repository:
 
 ```
-git clone https://github.com/seriotonctf/shellcat.git
+git clone https://github.com/El-Mehdi-Dridi/Flag-Capt.git
 ```
 
 Navigate to the flagcapt directory:
