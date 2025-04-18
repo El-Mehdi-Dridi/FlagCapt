@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - RSA decryption (manual or automatic factorization via FactorDB)
 - AES decryption (CBC/ECB modes)
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ Installation from GitHub Repository
+## Installation from GitHub Repository
 
 Clone the repository:
 
@@ -168,12 +168,12 @@ python flagcapt.py rsa -n < modulus > -e <exponent> -c <cipher> --wiener-attack
 python flagcapt.py rsa -f rsa.txt --low-exponent-attack                                             
 ```
 ## XOR Decryption
-### with known key
+### With known key
 
 ```bash
 python flagcapt.py xor -c "ciphertext_here" -k "key"
 ```
-### with known perfix
+### With known perfix
 ```
 python flagcapt.py xor -f flag.txt --prefix "prefix"
 ```
