@@ -1,0 +1,9 @@
+requests
+tqdm
+pycryptodome
+gmpy2
+libnum
+owiener
+beautifulsoup4
+lxml
+urllib3
